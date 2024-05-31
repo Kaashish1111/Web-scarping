@@ -1,0 +1,13 @@
+web scraping
+
+
+
+HTML , CSS 
+PYTHON
+Webscraping using Beautiful Soup: https://youtu.be/4tAp9Lu0eDI?feature=shared
+Selenium - thoda sa explore krna , kis kaam aata h
+Streamlit
+PyCharm install krna and try krna
+Web Scrapper vs Web Crawleers
+https://www.youtube.com/watch?v=lh9XVGv6BHs
+till 16 minutes
